@@ -1,11 +1,18 @@
 {
-  "name": "@codefin/generator-codefin-ts",
+  "name": "@codefin/generator-ts",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "files": [
     "app"
   ],
+  "keywords": [
+    "yeoman",
+    "typescript"
+  ],
+  "repository": {
+    "url": ""
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "file": "^0.2.2",
