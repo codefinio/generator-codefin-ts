@@ -1,5 +1,5 @@
 {
-  "name": "generator-codefin-ts",
+  "name": "@codefin/generator-codefin-ts",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
