@@ -1,0 +1,21 @@
+{
+  "name": "generator-codefin-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "file": "^0.2.2",
+    "jsesc": "^2.5.2",
+    "mkdirp": "^0.5.1",
+    "npm-whoami": "^1.1.4",
+    "path": "^0.12.7",
+    "yeoman-generator": "^3.1.1",
+    "yo": "^2.0.5",
+    "yosay": "^2.0.2"
+  },
+  "preferGlobal": true
+}
